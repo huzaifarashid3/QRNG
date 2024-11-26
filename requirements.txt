@@ -1,0 +1,6 @@
+Flask
+matplotlib
+numpy
+qiskit==0.45.1
+scipy
+qiskit-aer
